@@ -1295,6 +1295,11 @@ packages:
         - wl-pprint
         - AC-Angle
         - language-protobuf
+        - http2-client
+        - http2-grpc-types
+        - http2-client-grpc
+        - http2-grpc-proto-lens
+        - warp-grpc
 
     "Matvey Aksenov <matvey.aksenov@gmail.com> @supki":
         - terminal-size
